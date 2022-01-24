@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-common:2.3.5@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../rajuDa/caches/transforms-2/files-2.1/0553d083787ecfb0b9049577859edce4/navigation-common-2.3.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../rajuDa/caches/transforms-2/files-2.1/0553d083787ecfb0b9049577859edce4/navigation-common-2.3.5/res" />
+      <root url="file://$PROJECT_DIR$/../../rajuDa/caches/transforms-2/files-2.1/0553d083787ecfb0b9049577859edce4/navigation-common-2.3.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1f743b9c1f875a09cfa9da4b10c6c41d/transformed/navigation-common-2.3.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1f743b9c1f875a09cfa9da4b10c6c41d/transformed/navigation-common-2.3.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1f743b9c1f875a09cfa9da4b10c6c41d/transformed/navigation-common-2.3.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../rajuDa/caches/modules-2/files-2.1/androidx.navigation/navigation-common/2.3.5/8ac119554c336ee331c12b667b4e3f5f725616da/navigation-common-2.3.5-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-common/2.3.5/8ac119554c336ee331c12b667b4e3f5f725616da/navigation-common-2.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

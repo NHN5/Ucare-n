@@ -1,0 +1,118 @@
+com/project/ucare/screens/splash/SplashActivity.java
+ com.project.ucare.screens.splash.SplashActivity
+ com.project.ucare.screens.splash.SplashActivity$1
+ com.project.ucare.screens.splash.SplashActivity$2
+ com.project.ucare.screens.splash.SplashActivity$3
+ com.project.ucare.screens.splash.SplashActivity$4
+ com.project.ucare.screens.splash.SplashActivity$5
+com/project/ucare/models/Alarm.java
+ com.project.ucare.models.Alarm
+com/project/ucare/screens/alarm/MyService.java
+ com.project.ucare.screens.alarm.MyService
+com/project/ucare/screens/auth/LoginActivity.java
+ com.project.ucare.screens.auth.LoginActivity
+ com.project.ucare.screens.auth.LoginActivity$1
+ com.project.ucare.screens.auth.LoginActivity$2
+ com.project.ucare.screens.auth.LoginActivity$3
+ com.project.ucare.screens.auth.LoginActivity$4
+com/project/ucare/screens/main/settings/SettingsFragment.java
+ com.project.ucare.screens.main.settings.SettingsFragment
+ com.project.ucare.screens.main.settings.SettingsFragment$1
+ com.project.ucare.screens.main.settings.SettingsFragment$2
+ com.project.ucare.screens.main.settings.SettingsFragment$3
+ com.project.ucare.screens.main.settings.SettingsFragment$3$1
+ com.project.ucare.screens.main.settings.SettingsFragment$3$2
+ com.project.ucare.screens.main.settings.SettingsFragment$4
+ com.project.ucare.screens.main.settings.SettingsFragment$5
+ com.project.ucare.screens.main.settings.SettingsFragment$5$1
+ com.project.ucare.screens.main.settings.SettingsFragment$6
+ com.project.ucare.screens.main.settings.SettingsFragment$7
+ com.project.ucare.screens.main.settings.SettingsFragment$8
+com/project/ucare/screens/schedule/ScheduleAdapter.java
+ com.project.ucare.screens.schedule.ScheduleAdapter
+ com.project.ucare.screens.schedule.ScheduleAdapter$1
+ com.project.ucare.screens.schedule.ScheduleAdapter$2
+ com.project.ucare.screens.schedule.ScheduleAdapter$ScheduleListener
+ com.project.ucare.screens.schedule.ScheduleAdapter$ViewHolder
+com/project/ucare/screens/main/MainActivity.java
+ com.project.ucare.screens.main.MainActivity
+com/project/ucare/models/Profile.java
+ com.project.ucare.models.Profile
+com/project/ucare/screens/alarm/AlarmHandler.java
+ com.project.ucare.screens.alarm.AlarmHandler
+com/project/ucare/models/Schedule.java
+ com.project.ucare.models.Schedule
+com/project/ucare/MyApplication.java
+ com.project.ucare.MyApplication
+com/project/ucare/screens/auth/SignUpActivity.java
+ com.project.ucare.screens.auth.SignUpActivity
+ com.project.ucare.screens.auth.SignUpActivity$1
+ com.project.ucare.screens.auth.SignUpActivity$2
+ com.project.ucare.screens.auth.SignUpActivity$3
+ com.project.ucare.screens.auth.SignUpActivity$4
+ com.project.ucare.screens.auth.SignUpActivity$4$1
+com/project/ucare/screens/alarm/AlarmActivity.java
+ com.project.ucare.screens.alarm.AlarmActivity
+com/project/ucare/screens/main/home/ProfileAdapter.java
+ com.project.ucare.screens.main.home.ProfileAdapter
+ com.project.ucare.screens.main.home.ProfileAdapter$1
+ com.project.ucare.screens.main.home.ProfileAdapter$2
+ com.project.ucare.screens.main.home.ProfileAdapter$ProfileListener
+ com.project.ucare.screens.main.home.ProfileAdapter$ViewHolder
+com/project/ucare/screens/main/home/HomeFragment.java
+ com.project.ucare.screens.main.home.HomeFragment
+ com.project.ucare.screens.main.home.HomeFragment$1
+ com.project.ucare.screens.main.home.HomeFragment$2
+ com.project.ucare.screens.main.home.HomeFragment$3
+ com.project.ucare.screens.main.home.HomeFragment$3$1
+ com.project.ucare.screens.main.home.HomeFragment$4
+ com.project.ucare.screens.main.home.HomeFragment$5
+ com.project.ucare.screens.main.home.HomeFragment$6
+ com.project.ucare.screens.main.home.HomeFragment$7
+com/project/ucare/screens/alarm/NotificationHelper.java
+ com.project.ucare.screens.alarm.NotificationHelper
+com/project/ucare/db/ProfileHandler.java
+ com.project.ucare.db.ProfileHandler
+com/project/ucare/common/Utils.java
+ com.project.ucare.common.Utils
+ com.project.ucare.common.Utils$1
+com/project/ucare/screens/alarm/NotificationActionReceiver.java
+ com.project.ucare.screens.alarm.NotificationActionReceiver
+com/project/ucare/db/ScheduleHandler.java
+ com.project.ucare.db.ScheduleHandler
+com/project/ucare/db/SqlHandler.java
+ com.project.ucare.db.SqlHandler
+com/project/ucare/BuildConfig.java
+ com.project.ucare.BuildConfig
+com/project/ucare/screens/main/createprofile/CreateProfileActivity.java
+ com.project.ucare.screens.main.createprofile.CreateProfileActivity
+ com.project.ucare.screens.main.createprofile.CreateProfileActivity$1
+ com.project.ucare.screens.main.createprofile.CreateProfileActivity$2
+ com.project.ucare.screens.main.createprofile.CreateProfileActivity$3
+ com.project.ucare.screens.main.createprofile.CreateProfileActivity$4
+com/project/ucare/screens/auth/ResetPasswordActivity.java
+ com.project.ucare.screens.auth.ResetPasswordActivity
+ com.project.ucare.screens.auth.ResetPasswordActivity$1
+ com.project.ucare.screens.auth.ResetPasswordActivity$1$1
+com/project/ucare/screens/main/emergencyContact/EmergencyContactFragment.java
+ com.project.ucare.screens.main.emergencyContact.EmergencyContactFragment
+com/project/ucare/db/SqlDbHelper.java
+ com.project.ucare.db.SqlDbHelper
+com/project/ucare/screens/alarm/MyBroadCastReceiver.java
+ com.project.ucare.screens.alarm.MyBroadCastReceiver
+com/project/ucare/screens/medicine/AddMedicineActivity.java
+ com.project.ucare.screens.medicine.AddMedicineActivity
+ com.project.ucare.screens.medicine.AddMedicineActivity$1
+ com.project.ucare.screens.medicine.AddMedicineActivity$2
+ com.project.ucare.screens.medicine.AddMedicineActivity$3
+ com.project.ucare.screens.medicine.AddMedicineActivity$4
+ com.project.ucare.screens.medicine.AddMedicineActivity$5
+ com.project.ucare.screens.medicine.AddMedicineActivity$6
+ com.project.ucare.screens.medicine.AddMedicineActivity$7
+com/project/ucare/screens/schedule/ScheduleActivity.java
+ com.project.ucare.screens.schedule.ScheduleActivity
+ com.project.ucare.screens.schedule.ScheduleActivity$1
+ com.project.ucare.screens.schedule.ScheduleActivity$2
+ com.project.ucare.screens.schedule.ScheduleActivity$3
+ com.project.ucare.screens.schedule.ScheduleActivity$4
+ com.project.ucare.screens.schedule.ScheduleActivity$5
